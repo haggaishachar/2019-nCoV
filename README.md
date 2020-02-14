@@ -1,23 +1,19 @@
 # 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE
 
 
-This is the data repository for the 2019 Novel Coronavirus Vizual Dashboard operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CCSE). Also, Supported by ESRI Living Atlas Team
+This is the data repository for the 2019 Novel Coronavirus Visual Dashboard operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CCSE). Also, Supported by ESRI Living Atlas Team and the Johns Hopkins University Applied Physics Lab (JHU APL).
 
 <br>
 
-<b>Vizual Dashboard (desktop):</b><br>
-https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
-
-<b>Vizual Dashboard (mobile):</b><br>
-https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61
-
-<br> 
-
+<b>Visual Dashboard (desktop):</b><br>
+https://arcg.is/0fHmTX
+<br><br>
+<b>Visual Dashboard (mobile):</b><br>
+https://arcg.is/1DPOWm0
+<br><br>
 <b>Provided by Johns Hopkins University Center for Systems Science and Engineering (JHU CCSE):</b><br>
 https://systems.jhu.edu/
-
-<br>
-
+<br><br>
 <b>Data Sources:</b><br>
 * World Health Organization (WHO): https://www.who.int/ <br>
 * DXY.cn. Pneumonia. 2020. http://3g.dxy.cn/newh5/view/pneumonia.  <br>
@@ -31,7 +27,9 @@ https://systems.jhu.edu/
 * US CDC: https://www.cdc.gov/coronavirus/2019-ncov/index.html <br>
 * Government of Canada: https://www.canada.ca/en/public-health/services/diseases/coronavirus.html <br>
 * Australia Government Department of Health: https://www.health.gov.au/news/coronavirus-update-at-a-glance <br>
-* European Centre for Disease Prevention and Control (ECDC): https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases <br>
+* European Centre for Disease Prevention and Control (ECDC): https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases 
+* Ministry of Health Singapore (MOH): https://www.moh.gov.sg/covid-19
+<br>
   
 <br>
   
